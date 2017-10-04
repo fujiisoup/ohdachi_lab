@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CV (English)
-sidebar_link: true
 ---
 
 
@@ -58,8 +57,3 @@ sidebar_link: true
     * S. Ohdachi, et. al., "High-speed tangentially viewing soft x-ray camera to study magnetohydrodynamic fluctuations in toroidally confined plasmas"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2002-htpd.pdf "Presentaiton") 
 
-
-2002-htpd.pdf
-
-
-2009-fisfes.pdf
