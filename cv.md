@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV (English)
+sidebar_link: true
 ---
 
 
