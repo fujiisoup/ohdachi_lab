@@ -3,4 +3,4 @@ layout: category
 title: Researches
 ---
 
-### 大舘の研究
+### 研究
