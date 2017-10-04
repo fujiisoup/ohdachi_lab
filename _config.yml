@@ -7,7 +7,7 @@ title:            大舘暁研究室
 tagline:          ''
 #description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 description:	<a href="http://www.nifs.ac.jp" target = "_blank">核融合科学研究所</a> においてプラズマの画像計測、MHD不安定性の研究を行っています
-url:              https://fongandrew.github.io/hydeout
+url:              https://ohdachi.github.io/ohdachi_lab
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
