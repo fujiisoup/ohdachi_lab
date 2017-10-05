@@ -4,6 +4,7 @@ title: CV (English)
 sidebar_link: true
 ---
 
+### Curriculum Vitae
 
 ### QUALIFICATIONS
 *	PhD (Engineering, Nagoya University, 2003)  [PhD_info](http://iss.ndl.go.jp/books/R100000002-I000004256633-00?ar=4e1f "PhD_info") [Thesis](http://153.127.246.50/~ohdachi/resources/main.pdf "Thesis") 
@@ -34,18 +35,18 @@ sidebar_link: true
 
 ### Invited talks
 
-* The 21th international stellarator heliotron workshop, Oct. 2-6, 2017, Kyoto, Japan
+* 21th international stellarator heliotron workshop, Oct. 2-6, 2017, Kyoto, Japan
     * S. Ohdachi, et. al., "Energetic Particle Driven Resistive Interchange Mode in the Deuterium LHD Experiments", 
-* The 5th Asia-Pacific Transport Working Group Meeting, June 9–12 2015, Dalian, China
+* 5th Asia-Pacific Transport Working Group Meeting, June 9–12 2015, Dalian, China
     * S. Ohdachi, et. al., "Observation of localized mode in the bad curvature region at the core-density-collapse event in the Large Helical Device"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2015-aptwg.pdf "Presentaiton") 
-* The 27th Plasma and fusion research conference, Nov. 30-Dec. 03, 2010, Sapporo, Japan
+* 27th Plasma and fusion research conference, Nov. 30-Dec. 03, 2010, Sapporo, Japan
     * S. Ohdach, et. al., "Core density collapse phenomena observed in high-beta Helical plasma and its relationship to high-n Ballooning modes"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2010-pfr.pdf "Presentaiton") 
 * 17th International Stellarator / Heliotron Workshop, Oct 12-16, Princeton, USA
     * S. Ohdachi, .et. al., "Density collapse events observed in IDB/SDC plasmas on LHD"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2010-ishws.pdf "Presentaiton") 
-* 2009 International Workshop on Frontiers In Space and Fusion Energy Sciences (2009 FISFES), Nov. 30- Dec. 3, 2009, Tainan, Taiwan, 
+* International Workshop on Frontiers In Space and Fusion Energy Sciences (2009 FISFES), Nov. 30- Dec. 3, 2009, Tainan, Taiwan, 
     * S. Ohdachi, et. al., "2D-imaging for fluctuation measurement in magnetically confined fusion devices"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2009-fisfes.pdf "Presentaiton") 
 * 16th International Toki-conference, Dec. 5-8, 2006, Toki, Japan, 
