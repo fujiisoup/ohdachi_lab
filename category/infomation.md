@@ -14,7 +14,7 @@ title: Information
 
 地図の8番の建物の二階・回路調整室で試験や実験を行っています。
 
-![lab](/images/labpicture.jpg)
+![lab]({{ site.url }}/images/labpicture.jpg)
 
 ##### これまでの卒業生
 
