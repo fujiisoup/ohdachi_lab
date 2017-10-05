@@ -20,7 +20,7 @@ sidebar_link: true
 	- Interaction of the energetic particle with the interchange mode.
 * 2008: Associate Professor, High density plasma research division, National Institute for Fusion Science
 * 2007: Assistant Professor, High density plasma research division, National Institute for Fusion Science
-     - Study if the H-mode in CHS.
+     - Study of the H-mode in CHS.
      - Development of the SX dector system on LHD.
      - Development of the tangentially viewing SX camera. Tomography for the tangentially viewing system.
         - Study of the Interchange mode observed in LHD/CHS.
