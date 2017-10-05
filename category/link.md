@@ -9,11 +9,11 @@ sidebar_links:
 ### 研究
 * <a href="https://www.lhd.nifs.ac.jp/" target="_blank">大型ヘリカル装置計画</a>
 
-大舘が実験を行っている大型ヘリカル装置
+大舘が実験を行っている大型ヘリカル装置のURL。
 
 * <a href="http://www.nifs.ac.jp/rd/hdpprd/index.html"> 核融合科学研究所　高密度プラズマ研究系 </a>
 
-大舘の所属する高密度プラズマ物理研究系
+大舘の所属する高密度プラズマ物理研究系。
 
 * <a href="http://fusion.k.u-tokyo.ac.jp/">東京大学大学院　新領域創成科学研究科複雑理工学専攻/理学系研究科物理学専攻</A>
 
