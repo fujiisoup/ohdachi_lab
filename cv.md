@@ -9,7 +9,6 @@ sidebar_link: true
 ### QUALIFICATIONS
 *	PhD (Engineering, Nagoya University, 2003)  [PhD_info](http://iss.ndl.go.jp/books/R100000002-I000004256633-00?ar=4e1f "PhD_info") [Thesis](http://153.127.246.50/~ohdachi/resources/main.pdf "Thesis") 
 *	MsD (Physics, University of Tokyo, 1991)
-*	Research field: MHD instabilities, imaging diagnostics.
 *	Supervised two PhDs, and one MsD.
 
 ### Experience / Education
@@ -18,6 +17,7 @@ sidebar_link: true
 		- Study of the edge interchange mode.
 	- Study of the ballooning mode observed in LHD. 
 	- Study of the effect of the stochastic magnetic field on the MHD instabilities.
+	- Interaction of the energetic particle with the interchange mode.
 * 2008: Associate Professor, High density plasma research division, National Institute for Fusion Science
 * 2007: Assistant Professor, High density plasma research division, National Institute for Fusion Science
      - Study if the H-mode in CHS.
