@@ -36,7 +36,7 @@ sidebar_link: true
 ### Invited talks
 
 * 21th international stellarator heliotron workshop, Oct. 2-6, 2017, Kyoto, Japan
-    * S. Ohdachi, et. al., "Energetic Particle Driven Resistive Interchange Mode in the Deuterium LHD Experiments", 
+    * S. Ohdachi, et. al., "Energetic Particle Driven Resistive Interchange Mode in the Deuterium LHD Experiments" [Presentaiton](http://153.127.246.50/~ohdachi/resources/2017-ishws.pdf "Presentaiton") 
 * 5th Asia-Pacific Transport Working Group Meeting, June 9–12 2015, Dalian, China
     * S. Ohdachi, et. al., "Observation of localized mode in the bad curvature region at the core-density-collapse event in the Large Helical Device"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2015-aptwg.pdf "Presentaiton") 
