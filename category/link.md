@@ -23,6 +23,8 @@ sidebar_links:
 
 核融合科学研究所での大学院での学生教育を行っています。
 
+* <a href="https://researchmap.jp/ohdachi/"> Researchmap </A>
+
 * <a href="https://nrid.nii.ac.jp/nrid/1000000270489/"> 科研費獲得状況 </A>
 
 * <a href="http://a3foresight.nifs.ac.jp/"> A3 Foresight program "Study on Critical Physics Issues Specific to Steady State Sustainment of High-Performance Plasmas" </A>
@@ -34,6 +36,8 @@ sidebar_links:
 * <a href="http://153.127.246.50/~ohdachi/gazo_keisoku/index.html" target="_blank">画像計測研究会</a>
 
 1995年から隔年でプラズマの画像計測に関する研究会を開催してきました。
+
+* <a href="https://scrapbox.io/python-tutorial/" target="_blank"> Python + matplotlibで科学技術用のグラフを作るための個人的に覚書 </A>
 
 * <a href="http://incrbp.lhd.nifs.ac.jp/imaging.html" target="_blank">プラズマのイメージング計測</a>
 

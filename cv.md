@@ -9,7 +9,7 @@ sidebar_link: true
 ### QUALIFICATIONS
 *	PhD (Engineering, Nagoya University, 2003)  [PhD_info](http://iss.ndl.go.jp/books/R100000002-I000004256633-00?ar=4e1f "PhD_info") [Thesis](http://153.127.246.50/~ohdachi/resources/main.pdf "Thesis") 
 *	MsD (Physics, University of Tokyo, 1991)
-*	Supervised two PhDs, and one MsD.
+*	Supervised three PhDs.
 
 ### Experience / Education
 * Present.
