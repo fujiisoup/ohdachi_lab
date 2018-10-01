@@ -37,6 +37,8 @@ sidebar_links:
 
 1995年から隔年でプラズマの画像計測に関する研究会を開催してきました。
 
+* <a href="https://scrapbox.io/python-tutorial/" target="_blank"> Python + matplotlibで科学技術用のグラフを作るための個人的に覚書 </A>
+
 * <a href="http://incrbp.lhd.nifs.ac.jp/imaging.html" target="_blank">プラズマのイメージング計測</a>
 
 ### 大舘の個人のホームページ
