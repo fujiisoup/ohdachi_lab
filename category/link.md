@@ -23,6 +23,8 @@ sidebar_links:
 
 核融合科学研究所での大学院での学生教育を行っています。
 
+* <a href="https://researchmap.jp/ohdachi/" Researchmap </A>
+
 * <a href="https://nrid.nii.ac.jp/nrid/1000000270489/"> 科研費獲得状況 </A>
 
 * <a href="http://a3foresight.nifs.ac.jp/"> A3 Foresight program "Study on Critical Physics Issues Specific to Steady State Sustainment of High-Performance Plasmas" </A>
