@@ -20,7 +20,7 @@ sidebar_link: true
 	- Interaction of the energetic particle with the interchange mode.
 * 2008: Associate Professor, High density plasma research division, National Institute for Fusion Science
 * 2007: Assistant Professor, High density plasma research division, National Institute for Fusion Science
-     - Study if the H-mode in CHS.
+     - Study of the H-mode in CHS.
      - Development of the SX dector system on LHD.
      - Development of the tangentially viewing SX camera. Tomography for the tangentially viewing system.
         - Study of the Interchange mode observed in LHD/CHS.
@@ -36,7 +36,7 @@ sidebar_link: true
 ### Invited talks
 
 * 21th international stellarator heliotron workshop, Oct. 2-6, 2017, Kyoto, Japan
-    * S. Ohdachi, et. al., "Energetic Particle Driven Resistive Interchange Mode in the Deuterium LHD Experiments" [Presentaiton](http://153.127.246.50/~ohdachi/resources/2015-ishwsg.pdf "Presentaiton")  
+    * S. Ohdachi, et. al., "Energetic Particle Driven Resistive Interchange Mode in the Deuterium LHD Experiments" [Presentaiton](http://153.127.246.50/~ohdachi/resources/2017-ishws.pdf "Presentaiton") 
 * 5th Asia-Pacific Transport Working Group Meeting, June 9–12 2015, Dalian, China
     * S. Ohdachi, et. al., "Observation of localized mode in the bad curvature region at the core-density-collapse event in the Large Helical Device"
 [Presentaiton](http://153.127.246.50/~ohdachi/resources/2015-aptwg.pdf "Presentaiton") 
