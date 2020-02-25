@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文献情報とPDFファイルをうまく管理する(zoteroとZotfile)"
+title: "文献情報とPDFファイルをうまく管理する(zoteroとzotfile)"
 categories:
   - Researches
 tags:
