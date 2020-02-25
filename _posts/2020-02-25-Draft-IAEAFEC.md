@@ -13,7 +13,7 @@ sidebar_links:
   - true
 ---
 
-S. Ohdachi<sup>1</sup>, J. Varela<sup>1</sup>, K. Y. Watanabe<sup>1</sup>, H. Nakano<sup>1, 2</sup>, H. Takahashi<sup>1</sup>, Y. Suzuki<sup>1</sup>, Y. Narushima<sup>1</sup>1, T. Bando<sup>2</sup>, X. D. Du<sup>3</sup>, T. Morisaki<sup>1, 2</sup>, and the LHD Experiment Group<sup>1</sup>
+S. Ohdachi<sup>1</sup>, J. Varela<sup>1</sup>, K. Y. Watanabe<sup>1</sup>, H. Nakano<sup>1, 2</sup>, H. Takahashi<sup>1, 2</sup>, Y. Suzuki<sup>1, 2</sup>, Y. Narushima<sup>1, 2</sup>1, T. Bando<sup>2</sup>, X. D. Du<sup>3</sup>, T. Morisaki<sup>1, 2</sup>, and the LHD Experiment Group<sup>1</sup>
 
 <sup>1</sup>National Institute for Fusion Science, 322-6, Oroshi-cho, Toki, Japan <br>
 <sup>2</sup>The Graduate University for Advanced Studies, 322-6, Oroshi-cho, Toki, Japan <br>
