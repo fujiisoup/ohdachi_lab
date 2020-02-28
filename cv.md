@@ -13,6 +13,10 @@ sidebar_link: true
 
 ### Experience / Education
 * Present.
+	- Interaction of the energetic particle with the interchange mode.
+	_ Data driven science including sparse modelling.
+
+* 2018: Professor,  High density plasma research division, National Institute for Fusion Science
 	- Development of the tangentially viewing VUV camera.
 		- Study of the edge interchange mode.
 	- Study of the ballooning mode observed in LHD. 
