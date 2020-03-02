@@ -3,9 +3,9 @@ layout: page
 title: publication (English)
 sidebar_link: true
 ---
-### first author publications
+### first author publications 
 
-1. S. Ohdachi,Å@S Yamamoto, Y Suzuki, S Purohit, N Iwama,  Tomographic Inversion Technique Using Orthogonal Basis Patterns, Plasma and Fus. Ress 14 (2019), 3402087.[doi]( https://doi.org/10.1585/pfr.14.3402087).
+1. S. Ohdachi, S Yamamoto, Y Suzuki, S Purohit, N Iwama,  Tomographic Inversion Technique Using Orthogonal Basis Patterns, Plasma and Fus. Ress 14 (2019), 3402087.[doi]( https://doi.org/10.1585/pfr.14.3402087).
 1. S. Ohdachi, K. Watanabe, K. Tanaka, Y. Suzuki, Y. Takemura, S. Sakakibara, X. Du, T. Bando, Y. Narushima, R. Sakamoto, et. al., Observation of the ballooning mode that limits the operation space of the high-density super-dense-core plasma in the LHD, Nuclear Fusion. 57 (2017) 066042. [doi](https://doi.org/10.1088/1741-4326/aa6c1e).
 1. S. Ohdachi, S. Inagaki, T. Kobayashi, M. Goto, 2D turbulence structure observed by a fast framing camera system in linear magnetized device PANTA, in: Journal of Physics: Conference Series, IOP Publishing, 2017: p. 012009. [doi](https://doi.org/10.1088/1742-6596/823/1/012009).
 1. S. Ohdachi, New type of wavelet-based spectral analysis by which modes with different toroidal mode number are separated, Review of Scientific Instruments. 87 (2016) 11D411. [doi](http://dx.doi.org/10.1063/1.4959943).
@@ -26,7 +26,7 @@ sidebar_link: true
 
 ### All publications (196 entries)
 
-[publication list](http://153.127.246.50/~ohdachi/resources/list_of_pub.pdf)
+[publication list](http://153.127.246.50/‚Äæohdachi/resources/list_of_pub.pdf)
 
 ### Japanese Articles
 
