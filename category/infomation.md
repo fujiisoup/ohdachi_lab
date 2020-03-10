@@ -25,6 +25,6 @@ title: Information
 <a href = "https://ir.soken.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=5277&item_no=1&page_id=29&block_id=155" > Resistive Interchange Mode destabilized by Helically Trapped Energetic Ions in Helical Plasma </A>
 
 * 坂東隆宏 2018年　博士学位取得
-<a href = "https://ir.soken.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=5766&item_no=1&page_id=24&block_id=94" > Experimental study of MHD instabilities in deuterium plasma experiments of LHD </A>
+<a href = "https://ir.soken.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=5766&item_no=1&page_id=29&block_id=155" > Experimental study of MHD instabilities in deuterium plasma experiments of LHD </A>
 
 
