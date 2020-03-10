@@ -26,7 +26,7 @@ sidebar_link: true
 
 ### All publications (196 entries)
 
-[publication list](http://153.127.246.50/‾ohdachi/resources/list_of_pub.pdf)
+[publication list](http://153.127.246.50/窶ｾohdachi/resources/list_of_pub.pdf)
 
 ### Japanese Articles
 
